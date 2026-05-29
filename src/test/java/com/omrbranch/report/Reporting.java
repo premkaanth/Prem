@@ -35,7 +35,7 @@ public class Reporting {
 		System.out.println("Selenium");
 	}
 	
-	public void mobileTesting() {
-		System.out.println("Mobile Testing");
+	public void cucumber() {
+		System.out.println("Cucumber");
 	}
 }

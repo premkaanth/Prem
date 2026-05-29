@@ -8,5 +8,9 @@ public class LoginPage {
 	public void password() {
 		System.out.println("Enter password here");
 	}
+	
+	private void clickSignUp() {
+		System.out.println("Click on SignUp");
+	}
 
 }
