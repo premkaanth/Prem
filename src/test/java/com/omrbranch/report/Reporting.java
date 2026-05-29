@@ -31,8 +31,8 @@ public class Reporting {
 
 	}
 
-	public void apiTesting() {
-		System.out.println("API Testing");
+	public void selenium() {
+		System.out.println("Selenium");
 	}
 	
 	public void mobileTesting() {
