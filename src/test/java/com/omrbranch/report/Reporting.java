@@ -31,11 +31,18 @@ public class Reporting {
 
 	}
 
-	public void selenium() {
-		System.out.println("Selenium");
+	public void loginPage() {
+		System.out.println("loginPage");
 	}
 	
+	public void orderPage() {
+		System.out.println("orderPage");
+	}
+	
+	private void addToCart() {
+		System.out.println("addToCart");
+}
 	public void cucumber() {
 		System.out.println("Cucumber");
-	}
+	}	
 }
