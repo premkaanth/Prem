@@ -41,5 +41,8 @@ public class Reporting {
 	
 	private void addToCart() {
 		System.out.println("addToCart");
-	}
+}
+	public void cucumber() {
+		System.out.println("Cucumber");
+	}	
 }
